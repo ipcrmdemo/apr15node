@@ -6,5 +6,5 @@
             "containerName": "apr15node",
             "containerPort": 8080
         }
-   ],
+   ]
 }
