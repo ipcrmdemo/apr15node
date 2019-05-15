@@ -2,7 +2,6 @@
   "loadBalancers": [
         {
             "targetGroupArn": "arn:aws:elasticloadbalancing:us-east-1:247672886355:targetgroup/ecsTasks-fooecs2/35cbd41e0bd57eba",
-            "loadBalancerName": "ecs-alb-fooecs2",
             "containerName": "apr15node",
             "containerPort": 8080
         }
